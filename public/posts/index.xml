@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Dungeons &amp; Gatherers</title>
+    <title>Posts on Dungeons and Gatherers</title>
     <link>http://example.org/posts/</link>
-    <description>Recent content in Posts on Dungeons &amp; Gatherers</description>
+    <description>Recent content in Posts on Dungeons and Gatherers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 24 Jun 2022 14:01:02 -0400</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
