@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dungeons &amp; Gatherers</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Dungeons &amp; Gatherers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Jun 2022 14:01:02 -0400</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Into the Carnival</title>
+      <link>http://example.org/posts/into-the-carnival/</link>
+      <pubDate>Fri, 24 Jun 2022 14:01:02 -0400</pubDate>
+      
+      <guid>http://example.org/posts/into-the-carnival/</guid>
+      <description>Drawn by a nagging pull to recover something each of them had lost as a child, our group of adventurers finds themselves waiting in line to enter the Witchlight Carnival, a spectacle of lights, magic, and merriment. While in line, the adventurers discuss their favorite crab rangoon recipes and introduce themselves as:
+Korv Brothbringer, Ankor Black, Strowkin Ahn, Renis Ratman, Tun the Toothgrabber, and Yendar Starpyre When it&amp;rsquo;s finally their turn to purchase tickets, the adventurers are greeted by Nikolas Midnight, an elderly goblin, who informs the party that a mysterious patron has already purchased tickets for the group &amp;ndash; although he&amp;rsquo;s pretty sure one of the tickets is supposed to go to a &amp;ldquo;Penis Patman&amp;rdquo; and not Renis Ratman.</description>
+    </item>
+    
+  </channel>
+</rss>
