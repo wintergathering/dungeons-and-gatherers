@@ -1,6 +1,6 @@
 ---
 title: "Into the Carnival"
-date: "2022-06-24"
+date: 2022-06-24
 draft: false
 ---
 
