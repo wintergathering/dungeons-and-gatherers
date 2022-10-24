@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dungeons-and-gatherers.netlify.app/</loc>
-    <lastmod>2022-09-15T00:00:00+00:00</lastmod>
+    <loc>https://dungeons-and-gatherers.netlify.app/posts/agdon-longscarf/</loc>
+    <lastmod>2022-10-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dungeons-and-gatherers.netlify.app/posts/korv-loadbringer/</loc>
-    <lastmod>2022-09-15T00:00:00+00:00</lastmod>
+    <loc>https://dungeons-and-gatherers.netlify.app/</loc>
+    <lastmod>2022-10-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dungeons-and-gatherers.netlify.app/posts/</loc>
+    <lastmod>2022-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dungeons-and-gatherers.netlify.app/posts/korv-loadbringer/</loc>
     <lastmod>2022-09-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dungeons-and-gatherers.netlify.app/posts/spongitellis-pizza/</loc>
