@@ -18,9 +18,9 @@ Eventually, Chucklehead leads the crew inside for an audience with Skabatha. Ins
 
 The contest between 2/3rds of the Hourglass Coven and the NDA begins with a fucking wild series of events, including:
 
-The chair Yendar is sitting in, which is actually a mimic, trying to grab him;
-Butterfly-Ankor drowning himself in a cup of tea to revert back to his normal state; and
-Renis jamming the unicorn horn onto the rocking horse, which triggers the rocking horse to transform into Elidon but also leaves Renis with a handful of unicorn donger
+- The chair Yendar is sitting in, which is actually a mimic, trying to grab him;
+- Butterfly-Ankor drowning himself in a cup of tea to revert back to his normal state; and
+- Renis jamming the unicorn horn onto the rocking horse, which triggers the rocking horse to transform into Elidon but also leaves Renis with a handful of unicorn donger
 
 In a prolonged combat that sees Yendar summon a big rock hand to grab Skabatha, Skabatha turning Yendar into a frog, Bavlorna eating Renis, Elidon flubbing all of his attacks, and Yendar going down after a double claw attack from Skabatha, the NDA eventually kills Skabatha thanks to a big daddy fireball from Yendar. And in their second display of mercy in as many days, the gang decides to let Bavlorna live so long as she tells them Endelyn’s weakness. Bavlorna obliges, informing the crew that her sister can only be killed during an eclipse. Or possibly a…total eclipse of the heart?
 
